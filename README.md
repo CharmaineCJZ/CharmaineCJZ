@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I spent a few weekends learning basic programming languages at a high level (via executive education courses) such as Python so I can collaborate even more effectively with data scientists in building data and analytics products. <br><br>When I worked in a start-up without in-house analyst and data science resources, Python was useful in normalising data and analysing platform usage trends to identify opportunities to improve performance against success metrics.<br><br>📚 I'm currently learning about Generative AI for product applications. <br><br>🎲 Fun fact: I enjoy exploring data visualisation tools in my free time and built a trade flow tool on Tableau over a weekend to help a friend identify and prioritise sales opportunities.</p>
+<p align="left">✨ I spent a few weekends learning basic programming languages at a high level (via executive education courses) such as Python so I can collaborate even more effectively with data scientists in building data and analytics products. <br><br>When I worked in a start-up without in-house analyst and data science resources, Python was useful in enabling me to very efficiently normalise data and analyse platform usage trends to identify opportunities to improve performance against success metrics.<br><br>📚 I'm currently learning about Generative AI for product applications. <br><br>🎲 Fun fact: I enjoy exploring data visualisation tools in my free time and built a trade flow tool on Tableau over a weekend to help a friend identify and prioritise sales opportunities.</p>
 
 ###
 
